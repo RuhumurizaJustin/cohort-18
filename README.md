@@ -1,2 +1,1 @@
-# cohort-18
-Everything C18
+My first readme
